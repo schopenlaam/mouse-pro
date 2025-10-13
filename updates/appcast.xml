@@ -3,6 +3,17 @@
     <channel>
         <title>Mouse Pro</title>
         <item>
+            <title>1.7.2</title>
+            <pubDate>Mon, 13 Oct 2025 16:14:24 +0800</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/schopenlaam/mouse-pro/refs/heads/main/updates/mouse-pro-1.7.2.dmg" length="4467074" type="application/octet-stream" sparkle:edSignature="sth0mafkYhGlOjYh52TaNe6lNn9oPWhjFkMCBcSZPpbcsgZr/yqXVRs4pWOCoQcrPIKcMNx9SC8a/FyGDUHVDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/schopenlaam/mouse-pro/refs/heads/main/updates/Mouse%20Pro28-27.delta" sparkle:deltaFrom="27" length="1927754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="asYX0ChxwPEoXq47LtWxcopmJgBb4Cskp55RlrSMHD/2P34w56CiYY1cj96vDMIvyJqQqQFz3PYEaDkuZl8iAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>Mon, 29 Sep 2025 17:15:54 +0800</pubDate>
             <sparkle:version>27</sparkle:version>
